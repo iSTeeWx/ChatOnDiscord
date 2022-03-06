@@ -1,0 +1,10 @@
+name: ChatOnDiscord
+main: chatondiscord.Main
+description: Plugin that send chat logs to Your Discord Webhook
+version: 1.0-SNAPSHOT
+
+commands:
+  chatondiscord:
+    aliases:
+      - cnd
+      - chatondsc
